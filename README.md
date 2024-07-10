@@ -11,7 +11,7 @@
 
 ### 1. Resources and Building Levels Service (C#)
 (To get user use email for now, later use Token with email)
-REST Endpoints for:
+</br> REST Endpoints for:
 - Get Resources count per resource type for a given user
 - Get Building Levels per resource type for a given user
 - Upgrade Builidng if has enough money
